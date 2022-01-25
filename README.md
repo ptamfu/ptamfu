@@ -1,6 +1,4 @@
-**ptamfu/ptamfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+Hi There! 🙌🏾
 EDUCATION 
 2017-2021
 Providence College 
