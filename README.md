@@ -1,10 +1,10 @@
 Hi There! 🙌🏾
 
 EDUCATION 
-2017-2021
-Providence College 
-Bachelor of Science Biology
-Bachelor of Arts Sociology
+-2017-2021
+-Providence College 
+-Bachelor of Science Biology
+-Bachelor of Arts Sociology
 
 Research Experience
 2021-Present
@@ -30,7 +30,7 @@ Awards
 - MLk Scholarship Recipient Providence College 2017-2021
 - Deans List Providence College (multiple)
 
-
+More about me...
 - 🔭 I’m currently working as a Research Lab Manager in Water's Lab at Providence College
 - 📫 How to reach me: EMAIL - ptamfu.bio@providence.edu
 - 😄 Pronouns: He/His
