@@ -1,10 +1,12 @@
 Hi There! 🙌🏾
+Welcome to my Hub!
+
 
 EDUCATION 
--2017-2021
--Providence College 
--Bachelor of Science Biology
--Bachelor of Arts Sociology
+2017-2021
+Providence College 
+Bachelor of Science Biology
+Bachelor of Arts Sociology
 
 Research Experience
 2021-Present
